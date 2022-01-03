@@ -4,7 +4,7 @@ html{
     background-image: url("../img/background.gif");
     background-size: cover;
 }
-@font-face {font-family: pixelFont; src: url("pcsenior.ttf");}
+@font-face {font-family: pixelFont; src: url("../font/pcsenior.ttf");}
 nav {text-align: center; padding: 20px; font-size: 130%;}
 a {text-decoration: none;}
 .biography {text-align: center; padding: 20px; font-size: 120%;}
