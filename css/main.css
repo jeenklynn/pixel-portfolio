@@ -1,7 +1,7 @@
 * {box-sizing: border-box;}
 html{
     font-family: pixelFont;
-    background-image: url("https://cutewallpaper.org/21/pixel-art-background-gif/I-make-art-in-2019-Pixel-art-background-Pixel-art-.gif");
+    background-image: url("../img/background.gif");
     background-size: cover;
 }
 @font-face {font-family: pixelFont; src: url("pcsenior.ttf");}
